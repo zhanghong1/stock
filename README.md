@@ -1,2 +1,3 @@
-# stock
+# stock 
+
 first repository in github
